@@ -26,7 +26,6 @@ cap_sid
 # 以下为运行时数据，不用于恢复配置。
 *.sqlite
 *.sqlite-*
-*.jsonl
 *.lock
 models_cache.json
 archived_sessions/
