@@ -1,0 +1,183 @@
+model = "gpt-5.6-terra"
+model_reasoning_effort = "medium"
+personality = "pragmatic"
+
+[marketplaces.openai-bundled]
+last_updated = "2026-04-27T07:49:12Z"
+source_type = "local"
+source = '\\?\C:\Users\75746\.codex\.tmp\bundled-marketplaces\openai-bundled'
+
+[marketplaces.openai-primary-runtime]
+last_updated = "2026-04-27T07:37:02Z"
+source_type = "local"
+source = '\\?\C:\Users\75746\.cache\codex-runtimes\codex-primary-runtime\plugins\openai-primary-runtime'
+
+[plugins."browser-use@openai-bundled"]
+enabled = true
+
+[plugins."documents@openai-primary-runtime"]
+enabled = true
+
+[plugins."spreadsheets@openai-primary-runtime"]
+enabled = true
+
+[plugins."presentations@openai-primary-runtime"]
+enabled = true
+
+[plugins."github@openai-curated"]
+enabled = true
+
+[windows]
+sandbox = "elevated"
+
+[projects.'c:\users\75746\documents\codex\2026-04-27\codex']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\五征\getfullpartdataserviceworker']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\五征\wzytool']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\五征\plmcustomitk']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\五征\com.real.wz.plm.admin']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\临工\lgag_itk']
+trust_level = "trusted"
+
+[projects.'e:\个人资料\项目\韵映\五征\整车核价表测试']
+trust_level = "trusted"
+
+[projects.'f:\研发中心代码库']
+trust_level = "trusted"
+
+[projects.'c:\users\75746\desktop\发票\2026年4月报销']
+trust_level = "trusted"
+
+[projects.'d:\myeclipseworkspace2022\css7']
+trust_level = "trusted"
+
+[projects.'e:\个人资料\项目\韵映\五征\office online 问题分析']
+trust_level = "trusted"
+
+[projects.'e:\个人资料\项目\韵映\赛力斯\com.seres.manufacture.process.report']
+trust_level = "trusted"
+
+[projects.'e:\个人资料\项目\韵映\五星车辆\ecnecrexceltopdf']
+trust_level = "trusted"
+
+[projects.'d:\temp']
+trust_level = "trusted"
+
+[projects.'e:\个人资料\项目\韵映\赛力斯']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\岚图']
+trust_level = "trusted"
+
+[projects.'e:\个人资料\项目\韵映\tcif']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\岚图\com.hand.cust']
+trust_level = "trusted"
+
+[projects.'e:\个人资料\项目\韵映\五征\tc2506']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\五征\getfullpartdataservicemain']
+trust_level = "trusted"
+
+[projects.'e:\个人资料\项目\韵映\岚图\菜单整合']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\岚图\com.custonization.teamcenter11']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\onlyoffice']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\onlyofficeservice']
+trust_level = "trusted"
+
+[projects.'e:\个人资料\项目\韵映\五征\aws2']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\岚图\lantu.tc.bomservices']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\五征\wzplminterfaceservice']
+trust_level = "trusted"
+
+[projects.'d:\myeclipseworkspace2022\fcme']
+trust_level = "trusted"
+
+[projects.'e:\个人资料\项目\韵映\岚图\菜单整合\customization\plugins']
+trust_level = "trusted"
+
+[projects.'e:\个人资料\项目\中展航\712新3\bom一体化验收（交付客户版本）']
+trust_level = "trusted"
+
+[projects.'e:\个人资料\项目\韵映\岚图']
+trust_level = "trusted"
+
+[projects.'c:\users\75746\desktop']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\福田\medsplminterfaceservice']
+trust_level = "trusted"
+
+[projects.'c:\users\75746\downloads']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\福田\meds.om.customization']
+trust_level = "trusted"
+
+[projects.'e:\个人资料\项目\韵映\五征']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\岚图\plminterfaceservice']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\岚图\plmcustomitk']
+trust_level = "trusted"
+
+[projects.'d:\myeclipseworkspace2022\com.tc2512.real.custom']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\临工\com.lgag.rcp.teamcenter2412']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\上汽五菱\tc2412\pub_service']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\上汽五菱\tc2412']
+trust_level = "trusted"
+
+[projects.'d:\myeclipseworkspace2022\tjhj']
+trust_level = "trusted"
+
+[projects.'e:\个人资料\项目\韵映\tc-单点登录']
+trust_level = "trusted"
+
+[projects.'e:\个人资料\项目\韵映\开发sdk\tc2412']
+trust_level = "trusted"
+
+[projects.'d:\myeclipseworkspace2022\mybackup']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\御微']
+trust_level = "trusted"
+
+[projects.'e:\allgit2\智己']
+trust_level = "trusted"
+
+[features]
+memories = true
+chronicle = false
+
+[memories]
+generate_memories = true
+use_memories = true

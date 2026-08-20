@@ -1,0 +1,45 @@
+# 默认不备份 Codex 的运行状态、缓存和会话记录。
+*
+
+# Git 仓库自身仍由 Git 管理。
+!.gitignore
+!RECOVERY.md
+
+# 可恢复的用户配置与扩展。
+!AGENTS.md
+!config.toml
+!version.json
+!rules/
+!rules/**
+!skills/
+!skills/**
+!plugins/
+!plugins/cache/
+!plugins/cache/**
+!vendor_imports/
+!vendor_imports/**
+
+# 认证信息和密钥绝不进入 GitHub。
+auth.json
+cap_sid
+.env
+.sandbox-secrets/
+
+# 以下为运行时数据，不用于恢复配置。
+*.sqlite
+*.sqlite-*
+*.jsonl
+*.lock
+models_cache.json
+sessions/
+archived_sessions/
+attachments/
+cache/
+log/
+memories/
+thread-writer-locks/
+.sandbox/
+.sandbox-bin/
+.tmp/
+tmp/
+sqlite/
