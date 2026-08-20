@@ -29,7 +29,6 @@ cap_sid
 *.jsonl
 *.lock
 models_cache.json
-sessions/
 archived_sessions/
 attachments/
 /cache/
