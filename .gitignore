@@ -16,8 +16,6 @@
 !plugins/
 !plugins/cache/
 !plugins/cache/**
-!vendor_imports/
-!vendor_imports/**
 
 # 认证信息和密钥绝不进入 GitHub。
 auth.json
@@ -34,7 +32,7 @@ models_cache.json
 sessions/
 archived_sessions/
 attachments/
-cache/
+/cache/
 log/
 memories/
 thread-writer-locks/
@@ -42,4 +40,4 @@ thread-writer-locks/
 .sandbox-bin/
 .tmp/
 tmp/
-sqlite/
+/sqlite/

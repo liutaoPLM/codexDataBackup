@@ -6,14 +6,14 @@
 
 - `config.toml`：模型、权限及工作区配置。
 - `AGENTS.md`、`rules/`：全局工作规则。
-- `skills/`、`vendor_imports/`：已安装或导入的技能。
+- `skills/`：当前已安装的系统技能。
 - `plugins/cache/`：已缓存的插件包。
 - `version.json`：备份时的 Codex 版本信息。
 
 ## 不备份
 
 - `auth.json`、`.env`、`cap_sid` 和 `.sandbox-secrets/`：认证凭据或敏感数据。
-- SQLite、会话、记忆、附件、日志、临时文件和可执行缓存：运行时数据，体积大且不影响重新可用。
+- SQLite、会话、记忆、附件、日志、临时文件、供应商导入缓存和可执行缓存：运行时数据，体积大且不影响重新可用。
 
 ## 恢复步骤
 
