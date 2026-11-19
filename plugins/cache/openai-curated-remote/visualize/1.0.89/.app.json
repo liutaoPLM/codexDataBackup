@@ -1,0 +1,8 @@
+{
+  "apps": {
+    "visualize": {
+      "id": "connector_openai_visualize",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "ChatGPT订阅报销"
+  short_description: "按历史流程准备订阅报销、配对月度凭证并保持Excel原模板格式"
+  default_prompt: "请使用 $chatgpt-reimbursement，处理本次ChatGPT订阅报销，核对凭证与项目占比并保存草稿。"
